@@ -100,17 +100,17 @@ def download_bocyl_xml(download_path):
         print("Failed to download the file.")
 
 # Example usage with a specified path
-download_path_BOCYL = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOCYL"
+download_path_BOCYL = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOCYL"
 download_bocyl_xml(download_path_BOCYL)
-download_path_BOCM = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOCM"
+download_path_BOCM = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOCM"
 download_bocm_xml(download_path_BOCM)
-download_path_BORM = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BORM"
+download_path_BORM = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BORM"
 download_borm_xml(download_path_BORM)
-download_path_DOG = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\DOG"
+download_path_DOG = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\DOG"
 download_dog_xml(download_path_DOG)
-download_path_DOE = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\DOE"
+download_path_DOE = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\DOE"
 download_doe_xml(download_path_DOE)
-download_path_BOA = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOA"
+download_path_BOA = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOA"
 download_boa_xml(download_path_BOA)
-download_path_BOJA = r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOJA"
+download_path_BOJA = './' #r"C:\Users\marcos.garcia\LIGHTSOURCE HOLDINGS 2 LIMITED\Development Spain - Documents\D400 Knowledge Center\D420 Market Intelligence\421 Intelligence Sources\OG_Pubs\BOJA"
 download_boja_xml(download_path_BOJA)
